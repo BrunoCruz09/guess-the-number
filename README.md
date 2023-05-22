@@ -1,2 +1,2 @@
 # guess-the-number
-small app to the number
+small app to guess the number
